@@ -1,0 +1,13 @@
+package com.company;
+
+public class Ch_4_literals {
+    public static void main(String[] args) {
+        float B = 0.4f;
+        double C = 0.78956;
+        int D = 45;
+        char E = 'A';
+        long F = 95789646465456L;
+        String ch = "hello world i am stupid ";
+        System.out.println(F);
+    }
+}
