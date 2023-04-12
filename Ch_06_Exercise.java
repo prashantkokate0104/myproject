@@ -27,7 +27,10 @@ public class Ch_06_Exercise {
         float TotalMark=S1+S2+S3+S4+S5;
         float percentage=(TotalMark/Total)*100;
         System.out.println("Final percentage of student");
+         System.out.println("hello world");
         System.out.println(percentage);
 
     }
 }
+
+
